@@ -1,2 +1,2 @@
 Hello World
-In branch foo
+In branch fast
